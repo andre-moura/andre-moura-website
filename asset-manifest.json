@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/andre-moura-website/static/css/main.8bdccadd.css",
+    "main.css": "/andre-moura-website/static/css/main.c17f7b9e.css",
     "main.js": "/andre-moura-website/static/js/main.5e53f002.js",
     "static/js/787.ff542228.chunk.js": "/andre-moura-website/static/js/787.ff542228.chunk.js",
     "static/media/wizard-vector.svg": "/andre-moura-website/static/media/wizard-vector.7139632c919aa9e0e44bfc4a8a9db6ab.svg",
@@ -10,7 +10,6 @@
     "static/media/CentraNo2-Bold.ttf": "/andre-moura-website/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/andre-moura-website/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/andre-moura-website/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
-    "static/media/footer-bg.png": "/andre-moura-website/static/media/footer-bg.7bd67c0f73571d0acc02.png",
     "static/media/react.png": "/andre-moura-website/static/media/react.86c8d9eba03e29814d2a.png",
     "static/media/java.png": "/andre-moura-website/static/media/java.b9a5e4e6c749993a871d.png",
     "static/media/sql.png": "/andre-moura-website/static/media/sql.96af83e68e3b32fb2dd7.png",
@@ -28,12 +27,12 @@
     "static/media/contact-img.svg": "/andre-moura-website/static/media/contact-img.5f59854ba052211355061b881e39107c.svg",
     "index.html": "/andre-moura-website/index.html",
     "static/media/nav-icon1.svg": "/andre-moura-website/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
-    "main.8bdccadd.css.map": "/andre-moura-website/static/css/main.8bdccadd.css.map",
+    "main.c17f7b9e.css.map": "/andre-moura-website/static/css/main.c17f7b9e.css.map",
     "main.5e53f002.js.map": "/andre-moura-website/static/js/main.5e53f002.js.map",
     "787.ff542228.chunk.js.map": "/andre-moura-website/static/js/787.ff542228.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8bdccadd.css",
+    "static/css/main.c17f7b9e.css",
     "static/js/main.5e53f002.js"
   ]
 }
